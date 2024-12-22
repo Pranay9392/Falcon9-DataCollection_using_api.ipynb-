@@ -95,7 +95,3 @@ Contributions are welcome! Please open an issue or submit a pull request with yo
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-Let me know if you'd like further customization!

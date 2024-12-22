@@ -1,7 +1,3 @@
-Here’s a README file for your GitHub repository, outlining the purpose, process, and steps to replicate your Falcon 9 data collection and analysis project:
-
----
-
 # Falcon 9 Data Collection Using API
 
 This repository contains a Python-based project for collecting and analyzing data about Falcon 9 launches using API calls. The collected data is processed and stored in a structured format for further analysis.
